@@ -24,3 +24,6 @@ I am passionate about creating intuitive and engaging web experiences. With a bl
 I'm enthusiastic about collaborating on projects and exploring new opportunities. Connect with me on [LinkedIn](<Your LinkedIn profile URL>)!
 
 Feel free to explore my repositories below to see my work in action. Contributions and feedback are always welcome! 🌟
+
+<!-- Adding an animated GIF -->
+![Coding Animation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
