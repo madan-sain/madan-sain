@@ -1,5 +1,5 @@
 # Hello, I'm Madan Sain! 👋
-## Web Developer | Graphic & Web Designer
+## Web Developer | Backend Developer
 
 I am passionate about creating intuitive and engaging web experiences. With a blend of technical skills and design expertise, I specialize in crafting visually appealing and functional websites.
 
